@@ -15,3 +15,6 @@ I am 24 years old and my job has nothing to do with IT. Since childhood, I have 
 * CSS#3
 * JavaScript
 * Autocad
+
+## Languages
+* Russian - native speaker
