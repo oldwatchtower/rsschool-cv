@@ -1,1 +1,2 @@
-https://oldwatchtower.github.io/rsschool-cv/cv
+
+https://oldwatchtower.github.io/rsschool-cv/
